@@ -9,8 +9,8 @@
 ## 项目功能
 ### 添加时间戳
 #### 功能说明：当用户新建笔记时，系统会自动添加当前时间戳
-#### 功能展示：![TimeStamp.png](README_PHOTOS/TimeStamp.png)
-#### 部分代码截图：![TimeStampCode1.png](README_PHOTOS/TimeStampCode1.png)
+#### 功能展示：![TimeStamp.png](https://github.com/B7717/NotePad/blob/main/app/README_PHOTOS/TimeStamp.png)
+#### 部分代码截图：![TimeStampCode1.png](https://github.com/B7717/NotePad/blob/main/app/README_PHOTOS/TimeStamp1.png)
 
 ### 添加搜索功能
 #### 功能说明：点击搜索图标，输入关键字，系统会自动搜索笔记内容中包含该关键字的笔记，并显示搜索结果
